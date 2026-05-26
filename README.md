@@ -518,4 +518,8 @@ The GUI shows you exactly what's happening at each step!
 
 ---
 
-**Enjoy my graphical sector rotation analyzer! 🎨📊🚀**
+**Enjoy my graphical sector rotation analyzer!!!!!*
+
+<img width="224" height="205" alt="screenshot_options" src="https://github.com/user-attachments/assets/5bc19b5c-a92f-4c54-a8f7-e578ec384d32" />
+
+<img width="351" height="134" alt="screenshot" src="https://github.com/user-attachments/assets/6aa5751d-5dce-4149-9acf-e5cf332eefd8" />
